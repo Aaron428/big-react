@@ -1,5 +1,6 @@
 {
   "compileOnSave": true,
+  "exclude": ["node_modules"],
   "compilerOptions": {
     "target": "ESNext",
     "useDefineForClassFields": true,
@@ -16,6 +17,6 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "skipLibCheck": true,
-    "baseUrl": "./packages"
+    "baseUrl": "./packages",
   },
 }
