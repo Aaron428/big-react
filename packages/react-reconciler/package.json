@@ -1,0 +1,10 @@
+{
+  "name": "react-reconciler",
+  "version": "1.0.0",
+  "description": "react 协调器",
+  "module": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "shared": "workspace: *"
+  }
+}
